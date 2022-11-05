@@ -5,7 +5,6 @@ const AppLogo = () => {
     return (
         <View>
             <Image
-                style={styles.tinyLogo}
                 source={require('../assets/Logo.png')}
             />
         </View>
